@@ -1,0 +1,23 @@
+{
+  "name": "taskmill-core-bot",
+  "version": "1.0.0",
+  "description": "bot proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a7medkamel/taskmill-core-bot.git"
+  },
+  "author": "a7medkamel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/a7medkamel/taskmill-core-bot/issues"
+  },
+  "homepage": "https://github.com/a7medkamel/taskmill-core-bot#readme",
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "taskmill-api-slackbot": "git+https://github.com/a7medkamel/taskmill-api-slackbot.git"
+  }
+}

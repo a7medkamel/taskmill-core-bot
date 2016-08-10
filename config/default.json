@@ -1,0 +1,5 @@
+{
+  "api" : {
+    "slackbot" : "http://taskmill.io:8807"
+  }
+}
